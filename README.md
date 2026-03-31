@@ -19,21 +19,23 @@
 
 
 ###  Fun Fact
-I love sleeping during the day 😴
+I love sleeping during the day 
 
 ---
 
-### Languages and Tools
+###  Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, langchain, langgraph, langsmith,js,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind,typescript" />
-</p>
----
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashagrahari&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind,typescript" />
 </p>
 
+### AI Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-orange?style=for-the-badge"/>
+</p>
+
+ 
 ### LeetCode Stats 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
