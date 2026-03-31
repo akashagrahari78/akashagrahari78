@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Enthusiast;DSA+Learner;&center=true&width=500&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+App+Builder+(LangChain+%26+LangGraph);&center=true&width=500&height=50">
 </p>
 
 ---
@@ -43,10 +43,10 @@ I love sleeping during the day
 
  ### Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashagrahari&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashagrahari78&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### LeetCode Stats 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
+  <img src="https://leetcard.jacoblin.cool/Akash_746" />
 </p>
