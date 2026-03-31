@@ -12,10 +12,14 @@
 
 ---
 
-### How to reach me
-- Email: akashagrahari746@gmail.com
-- LinkedIn: www.linkedin.com/in/akash-agrahari-baa26224a
-
+<p align="center">
+  <a href="mailto:akashagrahari746@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/akash-agrahari-baa26224a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 
 ###  Fun Fact
@@ -25,8 +29,9 @@ I love sleeping during the day
 
 ###  Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind" />
 </p>
+
 
 ### AI Tools
 <p align="center">
@@ -35,7 +40,12 @@ I love sleeping during the day
   <img src="https://img.shields.io/badge/LangSmith-orange?style=for-the-badge"/>
 </p>
 
- 
+
+ ### Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashagrahari&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ### LeetCode Stats 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
