@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Enthusiast;DSA+Learner;Open+Source+Contributor&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Enthusiast;DSA+Learner;&center=true&width=500&height=50">
 </p>
 
 ---
@@ -23,18 +23,16 @@ I love sleeping during the day 😴
 
 ---
 
-### 🛠️Languages and Tools
+### Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,git,firebase,html,css,tailwind,typescript" />
+  <img src="https://skillicons.dev/icons?i=python, langchain, langgraph, langsmith,js,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind,typescript" />
 </p>
 ---
 
-### GitHub Stats
+###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashagrahari78&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashagrahari&show_icons=true&theme=tokyonight" />
 </p>
-
----
 
 ### LeetCode Stats 
 <p align="center">
