@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Akash%20Agrahari&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi , I'm Akash</h1>
-<h3 align="center"> MERN Stack & AI Developer</h3>
+<!-- <h3 align="center"> MERN Stack & AI Developer</h3> -->
 
 
 <p align="center">
@@ -19,27 +23,20 @@ I love sleeping during the day 😴
 
 ---
 
-###  Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,langchain, langgraph, langsmith,js,react,nodejs,mongodb,express,cpp,git,firebase,html,css,tailwind" />
+### 🛠️Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,git,firebase,html,css,tailwind,typescript" />
 </p>
-
 ---
 
 ### GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashagrahari78&show_icons=true&theme=radical)
-
----
-
-
-###  GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akashagrahari78&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashagrahari78&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### LeetCode Stats (Optional)
+### LeetCode Stats 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
 </p>
