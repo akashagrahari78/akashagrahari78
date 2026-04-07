@@ -46,25 +46,14 @@ Currently exploring the cutting edge of **LangChain**, **LangGraph**, and **Agen
 - 🔭 Currently building **AI agents** that can reason, plan, and act autonomously
 - 🌱 Deep-diving into **RAG pipelines**, **multi-agent systems**, and **vector databases**
 - 📫 Reach me at **akashagrahari746@gmail.com**
-- ⚡ Fun fact: I debug best at **2 AM** — there's something about late-night silence that makes every bug surrender faster. 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🤖 **AI Research Agent** | Multi-agent system that autonomously researches, summarizes, and answers complex queries | LangGraph, LangChain, Python |
-| 📄 **RAG Document Q&A** | Upload any PDF and chat with it using retrieval-augmented generation | LangChain, FAISS, Express, React |
-
-> 📌 *Check pinned repositories below for live demos and source code!*
-
----
-
+ 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,git,firebase,html,css,tailwind" />
 </p>
 
 ---
